@@ -10,3 +10,7 @@ description: Personal website hosted on GitHub pages
 
 ---
 
+Equations are so beautiful that I can cry:
+
+$$ \frac{d}{d x} \int_{a}^{x} f(t) d t=f(x) $$
+
